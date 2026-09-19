@@ -1,12 +1,11 @@
 <div align="center">
 
-# Hamza Taşbay
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Full-Stack+%26+Systems-Minded+Developer;Building+things,+breaking+things,+learning+either+way&font=Fira+Code&center=true&width=520&height=45&color=38BDF8&vCenter=true&size=20&pause=1800" alt="typing banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:F59E0B&height=180&section=header&text=Hamza%20Ta%C5%9Fbay&fontColor=ffffff&fontSize=44&fontAlignY=40&desc=Software%20Engineering%20Student%20%C2%B7%20Full-Stack%20and%20Systems&descSize=17&descAlignY=65" alt="Hamza Taşbay" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-tasbay-3b7b94304/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tasbayh@gmail.com)
 [![Location](https://img.shields.io/badge/Istanbul,_Turkey-334155?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-F59E0B?style=flat-square&logo=readdotcv&logoColor=white)](https://github.com/HmzT270/HmzT270/blob/main/cv-resume/Hamza-Tasbay-CV-English.pdf)
 
 </div>
 
