@@ -92,8 +92,8 @@ I've interned across both ends of that spectrum — writing full-stack code with
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HmzT270/HmzT270/main/dist/github_dark/stats.svg" alt="GitHub stats" height="200" />
-<img src="https://raw.githubusercontent.com/HmzT270/HmzT270/main/dist/github_dark/top-langs.svg" alt="Top languages" height="200" />
+<img src="https://raw.githubusercontent.com/HmzT270/HmzT270/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" height="200" />
+<img src="https://raw.githubusercontent.com/HmzT270/HmzT270/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages" height="200" />
 
 <img src="https://streak-stats.demolab.com/?user=HmzT270&hide_border=true&background=0D1117&border=0D1117&stroke=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="streak stats" />
 
