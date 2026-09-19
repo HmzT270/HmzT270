@@ -15,7 +15,8 @@ jobs:
       contents: write
     steps:
       - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          user: HmzT270
-          theme: github_dark
+          USERNAME: HmzT270
+          THEME: github_dark
