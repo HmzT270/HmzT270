@@ -14,7 +14,7 @@
 
 ### About
 
-3rd-year Software Engineering student at **Doğuş University**, currently splitting my time between two sides of the same coin: building web applications and understanding the systems they run on.
+4th-year Software Engineering student at **Doğuş University**, currently splitting my time between two sides of the same coin: building web applications and understanding the systems they run on.
 
 I've interned across both ends of that spectrum — writing full-stack code with .NET Core, React and MS SQL, and separately keeping corporate machines, domains and user accounts running as part of a systems administration team. That combination shapes how I build: I care as much about *what ships* as *what it takes to keep it running*.
 
@@ -92,10 +92,10 @@ I've interned across both ends of that spectrum — writing full-stack code with
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HmzT270&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=F59E0B" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HmzT270&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top languages" height="165" />
+<img src="https://raw.githubusercontent.com/HmzT270/HmzT270/main/dist/github_dark/stats.svg" alt="GitHub stats" height="200" />
+<img src="https://raw.githubusercontent.com/HmzT270/HmzT270/main/dist/github_dark/top-langs.svg" alt="Top languages" height="200" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HmzT270&hide_border=true&background=0D1117&stroke=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="streak stats" />
+<img src="https://streak-stats.demolab.com/?user=HmzT270&hide_border=true&background=0D1117&border=0D1117&stroke=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="streak stats" />
 
 </div>
 
