@@ -17,7 +17,7 @@
 
 I've interned across both ends of that spectrum — writing full-stack code with .NET Core, React and MS SQL, and separately keeping corporate machines, domains and user accounts running as part of a systems administration team. That combination shapes how I build: I care as much about *what ships* as *what it takes to keep it running*.
 
-- 🎓 GPA 2.94/4.00 · Doğuş University, Istanbul
+- 🎓 GPA 2.85/4.00 · Doğuş University, Istanbul
 - 🧩 Completed the **GoIT Fullstack Developer** bootcamp (Aug 2025) — React, Redux Toolkit, Node.js/Express, TypeScript, Docker
 - 🛠️ Comfortable moving between application code and the infrastructure underneath it
 - 📍 Based in Istanbul, open to internship/junior opportunities
