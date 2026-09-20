@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-tasbay-3b7b94304/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tasbayh@gmail.com)
 [![Location](https://img.shields.io/badge/Istanbul,_Turkey-334155?style=flat-square&logo=googlemaps&logoColor=white)](#)
-[![Resume](https://img.shields.io/badge/Resume-View_PDF-F59E0B?style=flat-square&logo=readdotcv&logoColor=white)](https://github.com/HmzT270/HmzT270/blob/main/cv-resume/Hamza-Tasbay-CV-English.pdf)
+[![CV](https://img.shields.io/badge/CV-View_CV-F59E0B?style=flat-square&logo=readdotcv&logoColor=white)](https://github.com/HmzT270/HmzT270/blob/main/cv-resume/Hamza-Tasbay-CV-English.pdf)
 
 </div>
 
