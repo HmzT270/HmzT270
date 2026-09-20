@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HmzT270/HmzT270/120cb1ce2dcb9739f60f2a86eee05433c2404c63/assets/banner.svg" alt="Hamza Taşbay" width="100%" />
+<img src="https://raw.githubusercontent.com/HmzT270/HmzT270/f3364990a7ab25e14cff3eca5932b72a5fa1a89e/assets/banner.svg" alt="Hamza Taşbay" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-tasbay-3b7b94304/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tasbayh@gmail.com)
