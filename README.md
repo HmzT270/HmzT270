@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D4ED8,100:F59E0B&height=180&section=header&text=Hamza%20Ta%C5%9Fbay&fontColor=ffffff&fontSize=44&fontAlignY=40&desc=Software%20Engineering%20Student%20%C2%B7%20Full-Stack%20and%20Systems&descSize=17&descAlignY=65" alt="Hamza Taşbay" width="100%" />
+<img src="https://raw.githubusercontent.com/HmzT270/HmzT270/main/assets/banner.svg" alt="Hamza Taşbay" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-tasbay-3b7b94304/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tasbayh@gmail.com)
